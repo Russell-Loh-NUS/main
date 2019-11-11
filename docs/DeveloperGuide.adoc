@@ -1,4 +1,4 @@
-= NJoy Teaching Assistant - Developer Guide
+= Njoy Teaching Assistant - Developer Guide
 :site-section: DeveloperGuide
 :toc:
 :toc-title:

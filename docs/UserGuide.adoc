@@ -1,4 +1,4 @@
-= NJoy - User Guide
+= Njoy - User Guide
 :site-section: UserGuide
 :toc:
 :toc-title:
@@ -76,7 +76,7 @@ _If you are not able to run the application using the method above, use the foll
 == Sample Data
 
 [TIP]
-The NJoy Assistant starts with some data as examples. Upon the first startup, the *students*, *questions*,
+The Njoy Assistant starts with some data as examples. Upon the first startup, the *students*, *questions*,
 *events* and *notes* storage are loaded with sample data. The user should clear these if they are not of importance,
 as they merely serve as examples.
 
@@ -691,7 +691,7 @@ image::questions/SlideshowFeatureDescription.png[]
 
 === Quizzes ​-​ `quiz`
 
-After taking the effort to record different questions, a teacher might be wondering what other features could the NJoy Teaching
+After taking the effort to record different questions, a teacher might be wondering what other features could the Njoy Teaching
 Assistant actually provide? What better way to make use of your predefined questions to create quizzes for homework, revision
 or even assignments?
 
@@ -1086,13 +1086,13 @@ Scroll to which portion of the calendar is to be taken, and the application will
 full screen window to maximise the content captured of the screenshot.
 
 [NOTE]
-The event schedule screenshot is stored in the printable directory which is in the same directory as the NJoy assistant.
+The event schedule screenshot is stored in the printable directory which is in the same directory as the Njoy assistant.
 If the directory exists beforehand, no new directory is created.
 See <<Finding-Schedule-Screenshot, finding schedule screenshot>>.
 
 [NOTE]
 The screenshot will be saved based on the current settings of your event schedule.
-For example if you are viewing 2019-11-23 on a weekly mode, the file name will be saved as WEEKLY_2019-11-23. NJoy will also overwrite any screenshots from the past with the same event name, to ensure that the screenshot in the printable directory is the most updated.
+For example if you are viewing 2019-11-23 on a weekly mode, the file name will be saved as WEEKLY_2019-11-23. Njoy will also overwrite any screenshots from the past with the same event name, to ensure that the screenshot in the printable directory is the most updated.
 
 
 * Example: `event screenshot` +
